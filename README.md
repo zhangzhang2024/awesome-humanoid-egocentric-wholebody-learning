@@ -22,7 +22,7 @@ If you find this repository useful, please consider  **giving us a star** 🌟
 ## Benchmarks and Datasets
 ### 2025
 - [2025.08] EgoDex: Learning Dexterous Manipulation from Large-Scale Egocentric Video [[Paper]](https://arxiv.org/pdf/2505.11709) [[Code]](https://github.com/apple/ml-egodex)
-- 
+
 ### 2024
 - [2024.06] Nymeria: A Massive Collection of Multimodal Egocentric Daily Motion in the Wild [[Paper]](https://arxiv.org/pdf/2406.09905) [[Project]](https://www.projectaria.com/datasets/nymeria/)
 
